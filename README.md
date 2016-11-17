@@ -1,2 +1,2 @@
 # Student-Scanner
-# M November 2016
+# M. November 2016
