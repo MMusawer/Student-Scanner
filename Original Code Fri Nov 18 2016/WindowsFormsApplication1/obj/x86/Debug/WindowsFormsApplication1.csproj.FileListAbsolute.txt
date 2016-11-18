@@ -21,3 +21,11 @@ G:\Comp. Sci\HermannWindowsFormsApplication1\WindowsFormsApplication1\obj\x86\De
 G:\Comp. Sci\HermannWindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
 G:\Comp. Sci\HermannWindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 G:\Comp. Sci\HermannWindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1Mobarakmus\Documents\GitHub\Student-Scanner\Original Code Fri Nov 18 2016\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
